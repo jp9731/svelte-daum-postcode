@@ -1,4 +1,4 @@
-# svelte-daum-postcode
+# svelte-daum-postcode2
 
 svelte로 만든 Daum 우편번호 서비스 입니다.
 
@@ -9,6 +9,9 @@ svelte로 만든 Daum 우편번호 서비스 입니다.
 ## 공지
 
 버그가 있거나 추가 하실 사항이 있으면 편하게 PR요청 부탁드립니다.
+
+svelte-daum-postcode
+이전버전에서 단순히 svelte 4 버전에 대한 지원만 없어서 package.json 에서 svelte 4 버전 지원만 변경하였습니다.
 
 ## 설치
 ```
